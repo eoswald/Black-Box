@@ -7,3 +7,9 @@ Black Box is a text editor plug-in designed to enable people to share and see ot
 ## Usage
 
 FIXME
+
+## License
+
+Copyright © 2014 Joe Allen, Eric Oswald
+
+Distributed under The MIT License (MIT)
